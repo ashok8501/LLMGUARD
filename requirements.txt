@@ -1,0 +1,9 @@
+llm-guard
+transformers
+torch
+fastapi
+uvicorn
+pydantic
+presidio-analyzer
+presidio-anonymizer
+langdetect
